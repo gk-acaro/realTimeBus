@@ -2,8 +2,8 @@
 JavaScript exercise
 <h2> Description </h2>
 <p> The bus tracker map will be displayed on screen. </p>
-<p> The bus tracker map has a button to start the marker to move every 15000 ms between MIT and Harvard  </p?
-<p> The nus tracker counts with a personal access token that is free for developers. This token will provide the data that is needed for the marker to move through the stops that are necessary to reach the destination. </p>
+<p> The bus tracker map has a button to start the marker to move every 15000 ms between MIT and Harvard  </p>
+<p> The bus tracker counts with a personal access token that is free for developers. This token will provide the data that is needed for the marker to move through the stops that are necessary to reach the destination. </p>
 <h2> How to Run </h2>
 <ol>
 <li> Download the html, js and css files in a same folder.</li> 
